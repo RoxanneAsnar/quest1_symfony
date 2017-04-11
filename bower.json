@@ -1,0 +1,20 @@
+{
+  "name": "quest1Symfony",
+  "homepage": "https://github.com/RoxanneAsnar/quest1_symfony",
+  "authors": [
+    "RoxanneAsnar <roxanne.asnar@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "quest1symfony",
+  "version": "1.0.0",
+  "description": "sqsfs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoxanneAsnar/quest1_symfony.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoxanneAsnar/quest1_symfony/issues"
+  },
+  "homepage": "https://github.com/RoxanneAsnar/quest1_symfony#readme"
+}
